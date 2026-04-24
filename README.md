@@ -18,3 +18,5 @@ pip install -r requirements.txt
 
 ## CI
 GitHub Actions is configured to install dependencies on every push to main. 
+
+## Setup-task branch update: preparing PR separation
