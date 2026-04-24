@@ -1,5 +1,7 @@
 # Climate Challenge Week 0
 
+This repository contains the initial project setup for the Climate Challenge program.  
+It demonstrates proper Git workflow, project structure, and CI/CD setup.
 ##  Project Setup
 
 ### 1. Clone repository
@@ -15,4 +17,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 ## CI
-GitHub Actions is configured to install dependencies on every push to main.
+GitHub Actions is configured to install dependencies on every push to main. 
